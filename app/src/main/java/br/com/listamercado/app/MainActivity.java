@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
     ListView list_view;
     EditText txt_produto;
+    String xyz;
 
     ProdutoAdapter adapter;
 
